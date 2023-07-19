@@ -1,9 +1,9 @@
-4d6ffb8fbfb180f20c0316e649fac477 *DESCRIPTION
+3cc9cf1b217da95f0819f14143acd540 *DESCRIPTION
 f8e0294c7f999ad48bc399a65857f917 *LICENSE
 0f2d53f70f5ebdc6b68efe9c1f7e17da *NAMESPACE
 8b8616040b50a77d80788e2daa9cde33 *NEWS.md
 bc068fd97b93164c389392530e5deef1 *R/data.R
-bd7c4b70df2424a66f53105603c99657 *R/pseudohouseholds.R
+88af924f999a09eb2a24efe828138a6c *R/pseudohouseholds.R
 e37f2d256a2480d167e200da5120668d *README.md
 45d2196f90e008d6164fb073d1824f6a *build/vignette.rds
 0ffa66c122b59640c43c1f0689a441b5 *data/ottawa_db_shp.rda
@@ -19,7 +19,7 @@ abd4124c8e99a8a5b5a1db73c494a5c4 *man/figures/README-plot_db_map-1.png
 6ebeeb04e94802607e3fb48480491bc7 *man/figures/README-plot_db_pointsonroads-1.png
 f9cb9bb1f9bec614759b88b54bf932f9 *man/figures/README-plot_db_roads-1.png
 d68af18fd6d182f18ec418d44c5536ee *man/figures/README-pressure-1.png
-c923d02a65d725c5d12294573040bae8 *man/get_phhs_parallel.Rd
+b6b7addcfb4ef4dd0e6dd69dd3be0a95 *man/get_phhs_parallel.Rd
 13ebcfe46a794b3d2567f9c54e1464ac *man/get_phhs_single.Rd
 3f81952e40bb5028cb7aa7e57ef61118 *man/ottawa_db_shp.Rd
 38aafa03d6e80b6e7a3a772f0871bc19 *man/ottawa_roads_shp.Rd

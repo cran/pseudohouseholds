@@ -66,13 +66,13 @@ passed on to it.
  region_popcol = "dbpop2021", roads = ottawa_roads_shp, roads_idcol = "NGD_UID")
 
 
- # Create PHHs for the first 20 dissemination blocks in Ottawa, Ontario, using
+ # Create PHHs for the first 5 dissemination blocks in Ottawa, Ontario, using
  # parallel processing (consult documentation for the package future for details
  # about parallel processing).
  \donttest{
  library(future)
  future::plan(future::multisession)
- phhs <- get_phhs_parallel(region = ottawa_db_shp[1:20,], region_idcol = "DBUID",
+ phhs <- get_phhs_parallel(region = ottawa_db_shp[1:5,], region_idcol = "DBUID",
   region_popcol = "dbpop2021", roads = ottawa_roads_shp, roads_idcol = "NGD_UID")
 
  # Shut down parallel workers
